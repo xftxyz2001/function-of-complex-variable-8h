@@ -1,2 +1,3 @@
-# function_of_complex_variable_8h
-《复变函数与积分变换》考前突击
+# 《复变函数与积分变换》考前突击
+- [3小时根本讲不完《复变函数与积分变换》-B站翔翔的学习频道](https://www.bilibili.com/video/BV13K4y1h7wC/)
+  - [手记](./手记/)
